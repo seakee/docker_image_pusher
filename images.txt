@@ -1,6 +1,19 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+alpine
+allanpk716/chinesesubfinder
+bitnami/kafka
+finab/bark-server
+ht944/rabbitpro
+jenkins/jenkins:lts
+linuxserver/jackett
+golang:1.22-alpine
+golang:1.21-alpine
+mongo:4.4
+nyanmisaka/jellyfin
+p3terx/aria2-pro
+provectuslabs/kafka-ui
+superng6/qbittorrentee
+vaultwarden/server
+whyour/qinglong:debian
+xhongc/music_tag_web
+ghostchu/peerbanhelper
